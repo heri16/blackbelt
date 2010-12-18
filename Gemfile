@@ -9,6 +9,7 @@ gem 'mysql2'
 
 # Use unicorn as the web server
 # gem 'unicorn'
+gem 'thin'
 
 # Deploy with Capistrano
 # gem 'capistrano'
@@ -29,3 +30,4 @@ gem 'mysql2'
 # group :development, :test do
 #   gem 'webrat'
 # end
+
